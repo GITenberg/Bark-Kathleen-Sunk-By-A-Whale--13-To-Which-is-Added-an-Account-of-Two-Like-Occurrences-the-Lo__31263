@@ -1,0 +1,29 @@
+_repo: Bark-Kathleen-Sunk-By-A-Whale--13-To-Which-is-Added-an-Account-of-Two-Like-Occurrences-the-Lo__31263
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31263-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jenkins, Thomas H.
+    alias: Jenkins, T. H. (Thomas H.)
+    gutenberg_agent_id: '35107'
+    url: http://www.gutenberg.org/2009/agents/35107
+description: ''
+gutenberg_issued: '2010-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31263'
+  lccn: 02027209
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Shipwrecks'
+- !lcsh 'Kathleen (Bark)'
+- !lcsh 'Whaling'
+- !lcc 'G'
+title: "Bark Kathleen Sunk By A Whale\r\nTo Which is Added an Account of Two Like\
+  \ Occurrences, the Loss of Ships Ann Alexander and Essex"
+url: http://www.gutenberg.org/ebooks/31263
